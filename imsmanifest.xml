@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6TpwlaKaB3M_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Módulo 1 - 24 Marzo</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Módulo 1</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Módulo_1_-_24_Marzo_ORG">
+    <organization identifier="Módulo_1_-_24_Marzo_ORG">
+      <title>Módulo 1 - 24 Marzo</title>
+      <item identifier="Modulo_1_-_Videos_y_Quizz_SCO" isvisible="true" identifierref="__6TpwlaKaB3M_course_id_RES">
+        <title>Módulo 1 - 24 Marzo</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6TpwlaKaB3M_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5e0Dou769Yk_80_DX3840_DY3840_CX2048_CY1152.png" />
+      <file href="mobile/5b33kU5zIGw_80_DX3840_DY3840_CX2048_CY1156.png" />
+      <file href="story_content/video_6XoOUcyWyOw_22_56_1920x1078.mp4" />
+      <file href="mobile/poster_6mbwhr9LiN5_video_6XoOUcyWyOw_22_56_1920x1078.jpg" />
+      <file href="mobile/5ar1J2TaFgf_80_DX436_DY436_CX327_CY327.png" />
+      <file href="story_content/video_6XoOUcyWyOw_22_56_1920x1046.mp4" />
+      <file href="mobile/poster_6ZtFWPkhNGY_video_6XoOUcyWyOw_22_56_1920x1046.jpg" />
+      <file href="story_content/video_6XvaNhS5srB_22_56_1920x1080.mp4" />
+      <file href="mobile/poster_5k5458EMzNG_video_6XvaNhS5srB_22_56_1920x1080.jpg" />
+      <file href="story_content/video_6XvaNhS5srB_22_56_1920x1044.mp4" />
+      <file href="mobile/poster_5gDrW7eJD4Z_video_6XvaNhS5srB_22_56_1920x1044.jpg" />
+      <file href="story_content/video_6Lzux4luggZ_22_56_1920x1080.mp4" />
+      <file href="mobile/poster_6Ju4IIvsNPk_video_6Lzux4luggZ_22_56_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6KJyivUCEWy.png" />
+      <file href="mobile/Shape5WlxopWFdxb.png" />
+      <file href="mobile/Shape6of7NL5f6uB.png" />
+      <file href="mobile/Shape6jKpaaAMY9I.png" />
+      <file href="mobile/Shape6LqAMti3YJ8.png" />
+      <file href="mobile/Shape6cRF1GiNOmE.png" />
+      <file href="mobile/Shape5yfMLG4hZIX.png" />
+      <file href="mobile/Shape6ish46z1Xc1.png" />
+      <file href="mobile/Shape6H5YkSBdKHr.png" />
+      <file href="mobile/Shape6RzNh1WwJiZ.png" />
+      <file href="mobile/Shape6F0vy8fMC76.png" />
+      <file href="mobile/Shape5mSXq2IkZ9g.png" />
+      <file href="mobile/Shape6dPW7sCnkxi.png" />
+      <file href="mobile/Shape5WHJP1Twiel.png" />
+      <file href="mobile/Shape6BuOUm4u3lH.png" />
+      <file href="mobile/Shape6WwUaQnfYBv.png" />
+      <file href="mobile/Shape6LxaFX3g0hh.png" />
+      <file href="mobile/Shape5o2XMMg1vq6.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5tF2cqJVSsS.js" />
+      <file href="html5/data/js/5ZcyFKExElc.js" />
+      <file href="html5/data/js/679vXjPeGkV.js" />
+      <file href="html5/data/js/69OJr8Jy2No.js" />
+      <file href="html5/data/js/6Mk3mON32iM.js" />
+      <file href="html5/data/js/6MxyXp4qs9W.js" />
+      <file href="html5/data/js/6Nlu0nNwU8h.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
